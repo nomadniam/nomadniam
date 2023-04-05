@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nomadniam
 - 👀 I’m interested in soccer and mobile gaming
-- 🌱 I’m currently registered in CS50X 
+- 🌱 I’m currently registered in the Meta Front-End Developer Certificate Program on Coursera
 
 <!---
 nomadniam/nomadniam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
